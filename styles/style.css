@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: aquamarine;
+}
+
+.window {
+    text-align: center;
+    margin-top: 23%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.text_area {
+    height: 60px;
+    position: relative;
+    border: 5px solid black;
+}
