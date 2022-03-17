@@ -6,4 +6,4 @@ Here are represented some of my vanilla js projects:
 
 more project are currently in progress
 
-Here is [site](https://www.freecodecamp.org/news/javascript-projects-for-beginners) from where i took these tusks
+Here is from where i took these [tasks](https://www.freecodecamp.org/news/javascript-projects-for-beginners)
