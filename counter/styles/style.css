@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, lightblue, white);
+}
+
+.upper_name {
+    height: 33vh;
+    margin-bottom: 0;
+
+}
+
+.middle_num {
+    height: 33vh;
+    font-size: 10em;
+    word-break:break-all;
+}
+
+.footer_btns {
+    height: 34vh;
+}
+
+.window {
+    display: grid;
+    text-align: center;
+}
