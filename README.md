@@ -3,7 +3,7 @@
 Here are represented some of my vanilla js projects:
 * [first one](https://github.com/Nikxxx007/JsProjects/tree/main/color_flipper) is a page with button which changes the background color randomly
 * [counter](https://github.com/Nikxxx007/JsProjects/tree/main/counter) is a page with an int value interaction (increase, decrease or reset)
-* review (slider)[https://github.com/Nikxxx007/JsProjects/tree/main/reviewCarousel]
+* review [slider](https://github.com/Nikxxx007/JsProjects/tree/main/reviewCarousel)
 
 
 more project are currently in progress
