@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 15px;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+.frame-container {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.title {
+    font-size: 5em;
+}
